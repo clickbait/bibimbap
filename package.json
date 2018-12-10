@@ -1,0 +1,14 @@
+{
+  "name": "asm",
+  "version": "1.0.0",
+  "description": "wish",
+  "main": "index.js",
+  "author": "threeam web + it",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
